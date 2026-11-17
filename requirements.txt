@@ -1,0 +1,6 @@
+aiogram>=3.3.0
+pyrogram>=2.0.106
+tgcrypto>=1.2.5
+curl-cffi>0.5.10
+aiofiles==23.2.1
+telethon
